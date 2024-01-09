@@ -56,7 +56,7 @@ The `React.createElement` function accepts three properties:
 3.`Children` (React Elements, Strings, or Arrays): Any additional arguments after the `props` are considered the children of the element. Children can be other React elements created using `createElement`, `strings`, or even `arrays` of elements. This is the third and subsequent arguments of the `createElement` function.
 
 #### 10.What is the meaning of render and root?
-- In React, `render` refers to the process of converting `React` components into `HTML` elements and displaying them on the user interface.
--In the context of `React` applications, the `root` usually refers to the `root DOM` element where the entire React application is mounted.
+1. In React, `render` refers to the process of converting `React` components into `HTML` elements and displaying them on the user interface.
+2. In the context of `React` applications, the `root` usually refers to the `root DOM` element where the entire React application is mounted.
 
 ---
